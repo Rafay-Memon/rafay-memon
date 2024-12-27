@@ -11,6 +11,11 @@ I'm a **Java Developer** with a focus on **backend development** using **Spring 
 - Currently diving deep into **microservices architecture** and **cloud platforms** (AWS, Azure).
 - Learning **containerization** with **Docker** and **Kubernetes**.
 
+## GitHub Stats
+
+![Abdul Rafeh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafay-Memon&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
 💼 Actively looking for opportunities to work on challenging projects in **Java** and **Spring Boot**.
 
 🎯 My ultimate goal is to become a **full-stack developer** with expertise in both backend and frontend technologies, building end-to-end solutions.
