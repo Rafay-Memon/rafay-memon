@@ -56,6 +56,7 @@ Here are some of the technologies I’ve been working with:
 Here are a few projects that showcase my skills:
 
 1. **Employee Management System** - A simple CRUD application for managing employee records, built with **Java** and **File I/O**.
+2. **Inventory Management Sytem** - A simple inventory management system built in Java using **JDBC** for database interaction and **Java Swing** for the user interface. This application allows users to manage product information such as name, price, and quantity. It supports basic CRUD (Create, Read, Update, Delete) operations.
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/rafay-memon-522b38244/)
