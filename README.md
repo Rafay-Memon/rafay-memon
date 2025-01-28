@@ -56,14 +56,14 @@ Here are some of the technologies I’ve been working with:
 Here are a few projects that showcase my skills:
 
 ### E-shop (Java EE e-commerce project)
-- **E-shop** is a feature-rich e-commerce web application developed using **Java EE**, designed for learning and demonstrating core web development concepts. The project is built with the **MVC architecture** and follows the **DAO** design pattern for modular and maintainable code.
-
 [![EShop-Application](https://github-readme-stats.vercel.app/api/pin/?username=Rafay-Memon&repo=E-Commerce-Application)](https://github.com/Rafay-Memon/E-Commerce-Application)
 
 ### Employee Management System 
-- A simple CRUD application for managing employee records, built with **Java** and **File I/O**.
-### **Inventory Management Sytem** 
-- A simple inventory management system built in Java using **JDBC** for database interaction and **Java Swing** for the user interface. This application allows users to manage product information such as name, price, and quantity. It supports basic CRUD (Create, Read, Update, Delete) operations.
+[![Employee-Management-System](https://github-readme-stats.vercel.app/api/pin/?username=Rafay-Memon&repo=employee-management-system)](https://github.com/Rafay-Memon/employee-management-system)
+
+### Inventory Management Sytem
+[![Inventory-Management-System](https://github-readme-stats.vercel.app/api/pin/?username=Rafay-Memon&repo=Inventory-Management-System)](https://github.com/Rafay-Memon/Inventory-Management-System)
+
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/rafay-memon-522b38244/)
